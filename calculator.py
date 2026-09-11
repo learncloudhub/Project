@@ -4,5 +4,5 @@ try:
 except:
     print("Invalid math expression.")
 
-print("Updated")
+print("Conflict")
 
