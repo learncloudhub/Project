@@ -3,6 +3,3 @@ try:
     print("Result:", eval(expr))
 except:
     print("Invalid math expression.")
-
-
-print("Updated")
